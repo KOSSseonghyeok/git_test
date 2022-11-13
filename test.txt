@@ -1,2 +1,7 @@
 Heelo
+<<<<<<< HEAD
 gsdgdfdsf
+=======
+rkskekfkakfj
+df
+>>>>>>> main
