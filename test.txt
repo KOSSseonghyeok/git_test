@@ -1,7 +1,2 @@
 Heelo
-<<<<<<< HEAD
-gsdgdfdsf
-=======
-rkskekfkakfj
-df
->>>>>>> main
+testing
